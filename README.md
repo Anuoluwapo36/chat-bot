@@ -62,9 +62,9 @@ com.chatbot.app/
 
 Default base URL: `https://dashscope-intl.aliyuncs.com/compatible-mode/v1/`
 
-If your key is from China (Beijing), change `QWEN_BASE_URL` in `app/build.gradle`.
+My key is from China (Beijing), use `QWEN_BASE_URL` in `app/build.gradle`.
 
-## Security
+## Security and my reminder
 
 - Never commit `local.properties` or your API key
 - Passwords are hashed with bcrypt before storage
